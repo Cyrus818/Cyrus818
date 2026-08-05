@@ -2,68 +2,86 @@
 
 # 张宸华
 
-**Fudan PhD Student · Medical Image Analysis · Vascular Imaging and Hemodynamics · Medical LLM/Agent Systems**
+**复旦大学博士在读 · 医学影像分析 · 血管影像与血流动力学 · 医疗大模型 / Agent**
 
 </div>
 
-I am a Ph.D. student at Fudan University. My research interests lie in **medical image analysis**, **vascular imaging and hemodynamics**, and **medical LLM/Agent systems** for **AI for Healthcare**.
+## 中文
 
-My current work focuses on building reproducible medical AI methods around 4D Flow MRI, vessel segmentation, physics-aware learning, and biomedical research workflows.
+我目前是复旦大学博士在读，本科取得软件工程、金融双学位。我的研究围绕医学影像分析、血管影像与血流动力学展开，并逐步延伸到医疗大模型和 Agent 系统。
 
-## Research Interests
+### 研究方向
 
-- **Medical Image Analysis**: 3D/4D medical imaging, vessel segmentation, domain adaptation, uncertainty-aware learning.
-- **Vascular Imaging and Hemodynamics**: 4D Flow MRI, velocity-field denoising, wall shear stress analysis, flow-aware modeling.
-- **Physics-aware and Self-supervised Learning**: self-supervised denoising, topology-aware segmentation, physically motivated constraints.
-- **Medical LLM/Agent Systems**: biomedical research agents, medical RAG, evaluation, and workflow automation for AI for Healthcare.
+- **医学影像分析**：3D/4D 医学影像、血管分割、域适应与不确定性建模。
+- **血管影像与血流动力学**：4D Flow MRI、速度场去噪、壁面剪切应力分析与流场建模。
+- **物理约束与自监督学习**：自监督去噪、拓扑感知分割，以及面向物理一致性的学习方法。
+- **医疗大模型 / Agent**：医学科研工作流、RAG、文献理解与实验流程自动化。
 
-## Selected Projects
+### 代表项目
 
-### PhysioWSS
+#### PhysioWSS
 
-Self-supervised 4D Flow MRI velocity-field denoising via spectral neural operators.
+基于谱神经算子的 4D Flow MRI 速度场自监督去噪，关注去噪结果对血流动力学分析的影响。
 
-- Uses Fourier-domain modeling for blood-flow velocity fields.
-- Does not require CFD simulation, ground-truth velocity, or WSS labels during training.
-- Evaluates downstream hemodynamic consistency including WSS-related analysis.
+#### TopoBudgetVessel
 
-### TopoBudgetVessel
+面向 3D 医学影像的高效拓扑感知血管分割，包含结构保持、可复现实验和效率分析。
 
-Efficient topology-aware vessel segmentation for 3D medical images.
+#### 4DFlowUDA
 
-- Focuses on vessel structure preservation under efficient segmentation constraints.
-- Includes paper-style experiments, visualization scripts, external baselines, and efficiency profiling.
-- Designed around reproducible evaluation rather than isolated demo results.
+面向 4D Flow MRI 的无监督域适应与不确定性感知分割，处理不同数据域之间的泛化问题。
 
-### 4DFlowUDA
+#### MedResearch Agent
 
-Unsupervised domain adaptation and uncertainty-aware segmentation for 4D Flow MRI.
+面向生物医学科研流程的桌面 AI 工作空间，覆盖文献调研、参考文献阅读、研究方向探索与实验部署。
 
-- Explores pseudo-label learning, temporal encoding, and uncertainty-weighted training.
-- Targets robust segmentation under domain shift in 4D Flow MRI data.
+### 目前方向
 
-### MedResearch Agent
+在医学影像和血流动力学研究的基础上，继续探索连接影像数据、科研流程与医疗大模型 / Agent 的可复现工具。
 
-Desktop AI workspace for biomedical research workflows.
+### 技术栈
 
-- Supports literature survey generation, reference-aware reading, research direction exploration, and experiment deployment.
-- Built around local-first research workflow management.
-- Connects biomedical research planning with executable experiments and workspace files.
+`Python` · `PyTorch` · `MONAI` · `NIfTI` · `4D Flow MRI` · `Medical Image Analysis` · `Deep Learning` · `Electron/React` · `TypeScript` · `LLM Agents`
 
-## Current Direction
+## English
 
-I am moving toward **medical AI systems that connect imaging, hemodynamics, and LLM/Agent workflows**.
+I am a Ph.D. student at Fudan University with undergraduate training in Software Engineering and Finance. My research interests lie in **medical image analysis**, **vascular imaging and hemodynamics**, and **medical LLM/Agent systems** for **AI for Healthcare**.
 
-The long-term goal is to build tools that are not only publishable, but also inspectable, reproducible, and useful in real biomedical research scenarios.
+My current work builds reproducible methods and tools around 4D Flow MRI, vessel segmentation, physics-aware learning, and biomedical research workflows.
 
-## Technical Stack
+### Research Interests
 
-Python · PyTorch · MONAI · NIfTI · Medical Image Analysis · 4D Flow MRI · Deep Learning · Electron/React · TypeScript · LLM Agents
+- **Medical Image Analysis**: 3D/4D medical imaging, vessel segmentation, domain adaptation, and uncertainty-aware learning.
+- **Vascular Imaging and Hemodynamics**: 4D Flow MRI, velocity-field denoising, wall shear stress analysis, and flow-aware modeling.
+- **Physics-aware and Self-supervised Learning**: self-supervised denoising, topology-aware segmentation, and physically motivated constraints.
+- **Medical LLM/Agent Systems**: biomedical research workflows, medical RAG, literature understanding, and experiment automation.
 
-## Contact
+### Selected Projects
 
-- GitHub: this profile
-- Email: 24110850047@m.fudan.edu.cn
+#### PhysioWSS
+
+Self-supervised 4D Flow MRI velocity-field denoising with spectral neural operators, evaluated through downstream hemodynamic analysis.
+
+#### TopoBudgetVessel
+
+Efficient topology-aware vessel segmentation for 3D medical images, with reproducible experiments and efficiency profiling.
+
+#### 4DFlowUDA
+
+Unsupervised domain adaptation and uncertainty-aware segmentation for robust 4D Flow MRI analysis under domain shift.
+
+#### MedResearch Agent
+
+A desktop AI workspace for biomedical research, covering literature surveys, reference-aware reading, research exploration, and experiment deployment.
+
+### Current Direction
+
+I am moving toward **medical AI systems that connect imaging, hemodynamics, and LLM/Agent workflows**. The goal is to build tools that are publishable, inspectable, reproducible, and useful in real biomedical research scenarios.
+
+### Contact
+
+- Email: `24110850047@m.fudan.edu.cn`
+- GitHub: [Cyrus818](https://github.com/Cyrus818)
 
 ---
 

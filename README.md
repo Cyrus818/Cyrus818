@@ -1,6 +1,6 @@
 <div align="center">
 
-# Zhangch / 青蛙咕
+# 张宸华
 
 **Fudan PhD Student · Medical Image Analysis · Vascular Imaging and Hemodynamics · Medical LLM/Agent Systems**
 

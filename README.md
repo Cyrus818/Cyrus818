@@ -6,7 +6,16 @@
 
 </div>
 
-## 中文
+<div align="center">
+<a href="#中文"><strong>中文</strong></a>
+&nbsp; · &nbsp;
+<a href="#english"><strong>English</strong></a>
+</div>
+
+<details open>
+<summary id="中文"><strong>中文</strong></summary>
+
+<br>
 
 我目前是复旦大学博士在读，本科取得软件工程、金融双学位。我的研究围绕医学影像分析、血管影像与血流动力学展开，并逐步延伸到医疗大模型和 Agent 系统。
 
@@ -43,7 +52,12 @@
 
 `Python` · `PyTorch` · `MONAI` · `NIfTI` · `4D Flow MRI` · `Medical Image Analysis` · `Deep Learning` · `Electron/React` · `TypeScript` · `LLM Agents`
 
-## English
+</details>
+
+<details>
+<summary id="english"><strong>English</strong></summary>
+
+<br>
 
 I am a Ph.D. student at Fudan University with undergraduate training in Software Engineering and Finance. My research interests lie in **medical image analysis**, **vascular imaging and hemodynamics**, and **medical LLM/Agent systems** for **AI for Healthcare**.
 
@@ -82,6 +96,8 @@ I am moving toward **medical AI systems that connect imaging, hemodynamics, and 
 
 - Email: `24110850047@m.fudan.edu.cn`
 - GitHub: [Cyrus818](https://github.com/Cyrus818)
+
+</details>
 
 ---
 

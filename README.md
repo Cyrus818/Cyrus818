@@ -3,7 +3,7 @@
 # 张宸华
 
 **Ph.D. Student, Fudan University**<br>
-**Medical Image Analysis · Medical LLM / Agent Systems**
+**Medical Image Analysis · Medical LLM Applications · RAG / Agent Engineering**
 
 <a href="#中文"><strong>中文</strong></a>
 &nbsp; · &nbsp;
@@ -16,12 +16,12 @@
 
 <br>
 
-复旦大学博士研究生，本科取得软件工程、金融双学位。研究兴趣包括医学影像分析与医疗大模型 / Agent，重点关注 4D Flow MRI、血管分割、血流动力学建模，以及面向生物医学科研流程的 RAG / Agent 系统。
+复旦大学博士研究生，本科取得软件工程、金融双学位。研究兴趣包括医学影像分析与医疗大模型应用，重点关注 4D Flow MRI、血管分割、血流动力学建模，以及医疗健康场景下的 RAG、Agent、模型评测与应用工程。
 
 ### 研究兴趣
 
 - **医学影像分析**：4D Flow MRI、血管分割、速度场建模、血流动力学分析。
-- **医疗大模型 / Agent**：医学 RAG、文献理解、科研流程编排、实验自动化。
+- **医疗大模型应用**：RAG、Agent、模型评测、工具调用、多模态医疗问答与应用工程。
 
 ### 代表项目
 
@@ -34,7 +34,7 @@
 
 ### 技术栈
 
-`Python` · `PyTorch` · `MONAI` · `NIfTI` · `4D Flow MRI` · `Medical Image Analysis` · `Deep Learning` · `Electron` · `React` · `TypeScript` · `LLM Agents`
+`Python` · `PyTorch` · `MONAI` · `NIfTI` · `4D Flow MRI` · `Medical Image Analysis` · `Deep Learning` · `RAG` · `Agent Systems` · `Model Evaluation` · `Electron` · `React` · `TypeScript`
 
 ### 联系方式
 
@@ -48,12 +48,12 @@
 
 <br>
 
-I am a Ph.D. student at Fudan University with undergraduate training in Software Engineering and Finance. My research interests include medical image analysis and medical LLM / Agent systems, with a focus on 4D Flow MRI, vessel segmentation, hemodynamic modeling, and RAG / Agent systems for biomedical research workflows.
+I am a Ph.D. student at Fudan University with undergraduate training in Software Engineering and Finance. My research interests include medical image analysis and medical LLM applications, with a focus on 4D Flow MRI, vessel segmentation, hemodynamic modeling, and RAG / Agent engineering for healthcare scenarios.
 
 ### Research Interests
 
 - **Medical Image Analysis**: 4D Flow MRI, vessel segmentation, velocity-field modeling, and hemodynamic analysis.
-- **Medical LLM / Agent Systems**: medical RAG, literature understanding, research workflow orchestration, and experiment automation.
+- **Medical LLM Applications**: RAG, agents, model evaluation, tool use, multimodal medical QA, and application engineering.
 
 ### Selected Projects
 
@@ -66,7 +66,7 @@ I am a Ph.D. student at Fudan University with undergraduate training in Software
 
 ### Tech Stack
 
-`Python` · `PyTorch` · `MONAI` · `NIfTI` · `4D Flow MRI` · `Medical Image Analysis` · `Deep Learning` · `Electron` · `React` · `TypeScript` · `LLM Agents`
+`Python` · `PyTorch` · `MONAI` · `NIfTI` · `4D Flow MRI` · `Medical Image Analysis` · `Deep Learning` · `RAG` · `Agent Systems` · `Model Evaluation` · `Electron` · `React` · `TypeScript`
 
 ### Contact
 

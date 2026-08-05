@@ -21,9 +21,9 @@
 
 ### 研究方向
 
-- **医学影像分析**：3D/4D 医学影像、血管分割、域适应与不确定性建模。
-- **血管影像与血流动力学**：4D Flow MRI、速度场去噪、壁面剪切应力分析与流场建模。
-- **物理约束与自监督学习**：自监督去噪、拓扑感知分割，以及面向物理一致性的学习方法。
+- **医学影像分析**：3D/4D 医学影像、血管分割与跨域泛化。
+- **血管影像与血流动力学**：4D Flow MRI、速度场重建与去噪、壁面剪切应力及流场分析。
+- **学习方法与结构先验**：自监督学习、物理约束、拓扑感知建模与不确定性估计。
 - **医疗大模型 / Agent**：医学科研工作流、RAG、文献理解与实验流程自动化。
 
 ### 代表项目
@@ -65,9 +65,9 @@ My current work builds reproducible methods and tools around 4D Flow MRI, vessel
 
 ### Research Interests
 
-- **Medical Image Analysis**: 3D/4D medical imaging, vessel segmentation, domain adaptation, and uncertainty-aware learning.
-- **Vascular Imaging and Hemodynamics**: 4D Flow MRI, velocity-field denoising, wall shear stress analysis, and flow-aware modeling.
-- **Physics-aware and Self-supervised Learning**: self-supervised denoising, topology-aware segmentation, and physically motivated constraints.
+- **Medical Image Analysis**: 3D/4D medical imaging, vessel segmentation, and cross-domain generalization.
+- **Vascular Imaging and Hemodynamics**: 4D Flow MRI, velocity-field reconstruction and denoising, wall shear stress, and flow analysis.
+- **Learning Methods and Structural Priors**: self-supervised learning, physics-informed constraints, topology-aware modeling, and uncertainty estimation.
 - **Medical LLM/Agent Systems**: biomedical research workflows, medical RAG, literature understanding, and experiment automation.
 
 ### Selected Projects

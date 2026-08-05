@@ -2,7 +2,7 @@
 
 # 张宸华
 
-**复旦大学博士在读 · 医学影像分析 · 血管影像与血流动力学 · 医疗大模型 / Agent**
+**复旦大学博士在读 · 医学影像分析 · 医疗大模型 / Agent**
 
 </div>
 
@@ -17,13 +17,13 @@
 
 <br>
 
-我目前是复旦大学博士在读，本科取得软件工程、金融双学位。我的研究围绕医学影像分析、血管影像与血流动力学展开，并逐步延伸到医疗大模型和 Agent 系统。
+我目前是复旦大学博士在读，本科取得软件工程、金融双学位。我的核心研究领域是医学影像分析，具体聚焦 4D Flow MRI、血管分割与血流动力学建模，并逐步延伸到医疗大模型和 Agent 系统。
 
-### 研究方向
+### 研究主线
 
-- **医学影像与计算成像**：3D/4D 医学影像、血管分割、跨域泛化与不确定性建模。
-- **血管影像与血流动力学**：4D Flow MRI、速度场重建与去噪、壁面剪切应力及流场分析。
-- **医疗大模型与科研智能体**：医学 RAG、文献理解、科研流程编排与实验自动化。
+我的核心研究领域是**医学影像分析**，主要处理 3D/4D 医学影像、血管分割、4D Flow MRI 与血流动力学建模。
+
+在方法上，我关注自监督学习、物理约束、拓扑先验、跨域泛化与不确定性建模；在此基础上，正在探索医疗大模型、RAG 与 Agent 在生物医学科研流程中的应用。
 - **医疗大模型 / Agent**：医学科研工作流、RAG、文献理解与实验流程自动化。
 
 ### 代表项目
@@ -59,15 +59,15 @@
 
 <br>
 
-I am a Ph.D. student at Fudan University with undergraduate training in Software Engineering and Finance. My research interests lie in **medical image analysis**, **vascular imaging and hemodynamics**, and **medical LLM/Agent systems** for **AI for Healthcare**.
+I am a Ph.D. student at Fudan University with undergraduate training in Software Engineering and Finance. My primary research area is **medical image analysis**, with a focus on 4D Flow MRI, vessel segmentation, and hemodynamic modeling, while extending toward medical LLM/Agent systems for **AI for Healthcare**.
 
 My current work builds reproducible methods and tools around 4D Flow MRI, vessel segmentation, physics-aware learning, and biomedical research workflows.
 
-### Research Interests
+### Research Focus
 
-- **Medical Imaging and Computational Imaging**: 3D/4D medical imaging, vessel segmentation, cross-domain generalization, and uncertainty modeling.
-- **Vascular Imaging and Hemodynamics**: 4D Flow MRI, velocity-field reconstruction and denoising, wall shear stress, and flow analysis.
-- **Medical LLMs and Research Agents**: medical RAG, literature understanding, research workflow orchestration, and experiment automation.
+My core area is **medical image analysis**, covering 3D/4D imaging, vessel segmentation, 4D Flow MRI, and hemodynamic modeling.
+
+Methodologically, I work with self-supervised learning, physics-aware constraints, topology-aware priors, cross-domain generalization, and uncertainty modeling. I am also exploring medical LLM, RAG, and Agent systems for biomedical research workflows.
 - **Medical LLM/Agent Systems**: biomedical research workflows, medical RAG, literature understanding, and experiment automation.
 
 ### Selected Projects
